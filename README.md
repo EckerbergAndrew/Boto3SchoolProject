@@ -1,6 +1,7 @@
 # Boto3SchoolProject
-A project I did for 3rd year Automated Cloud services class at WIT
-part 1 sets up a variable for the keypair, then makes an EC2 instance in the AWS cloud
+A project I did for 3rd year Automated Cloud services class at WIT.
+
+part 1 sets up a variable for the keypair, then makes an EC2 instance in the AWS cloud.
 There's a wait_until_running set up with a sleep command for 30 seconds to allow it to fully set up
 before setting its ip address to a variable for later use
 
